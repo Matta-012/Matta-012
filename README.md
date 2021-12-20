@@ -5,7 +5,7 @@
 ## :runner: About me
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
 
 - 📖 I'm a Fullstack Web Developer Student, Game Designer and a Blockchain enthusiast;
 - 🌱 I’m currently learning Backend with Node.js and Blockchain Development;
