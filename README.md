@@ -7,8 +7,8 @@
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="280" />
 
-- 📖 I'm mainly a Full Stack Web Developer who likes to create some games as a hobby.
-- 🌱 I’m currently learning Backend with Node.js and Blockchain Development;
+- 📖 I'm a Full Stack Web Developer who likes to create some games as a hobby.
+- 🌱 I'm currently improving my knowledge in node.js as I intend to specialize in back-end. I'm also learning some stuff about Blockchain Development;
 - 📫 How to reach out to me:
 
   <br />
@@ -36,7 +36,7 @@
   <img align="center" alt="Node-js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Express" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- <!--   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> -->
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
 
 ##
