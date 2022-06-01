@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">! I'm João Marco Matta!
+### Hi there <img width="35" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">! I'm João Marco Matta!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Matta-012)
 
