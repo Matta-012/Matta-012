@@ -1,14 +1,12 @@
 ### Hi there <img width="35" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">! I'm João Marco Matta!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Matta-012)
-
 ## :runner: About me
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="280" />
 
 - 📖 I'm a Back-end Web Developer who likes to create some games as a hobby.
-- 🌱 I'm currently improving my knowledge in Node.js, TypeScript, microservices and some other handy tools for back-end developers. I'm also learning more about game development as I always wanted to launch some cool games;
+- 🌱 I'm currently improving my knowledge in Node.js, TypeScript, microservices, and some other handy tools for back-end developers. I'm also learning more about game development as I always wanted to publish some cool games;
 - 📫 How to reach out to me:
 
   <br />
